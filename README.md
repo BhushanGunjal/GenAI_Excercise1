@@ -1,6 +1,3 @@
-Based on the provided file name and context, you've submitted a Jupyter Notebook for a sentiment analysis exercise as part of your college project. Here's a draft README file for your GitHub repository:
-
----
 
 # Sentiment Analysis Exercise 1
 
