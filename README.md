@@ -28,7 +28,7 @@ To run the notebook, ensure you have the following installed:
 ### Installation
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/sentiment-analysis-exercise1.git
+   git clone https://github.com/BhushanGunjal/GenAI_Excercise1
    ```
 2. Navigate to the project directory:
    ```bash
